@@ -1,9 +1,6 @@
 Hangman In Python
 Created by Ben Zhao && Daanyal Raja
 
-Our final project is game which we made Hangman.
-The complexity represented in our graphics includes: visually stunning graphics rivaling the PS5.
-Each time the game runs, there are varied and different results depending on the word that is randomly selected.
 Our code involves three files in total. Our first file is hangman.py which contains the main logic behind our code.
 This is were all of our functions and class is. The second file runs the game, hence why it's called RunGame.py.
 The final file is scrabble_dictionary.txt, from which we chose a random word for our hangman game. We also need the graphics.py documentation
