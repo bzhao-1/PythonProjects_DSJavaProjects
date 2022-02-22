@@ -1,11 +1,11 @@
-Author: Ben Zhao
+# Author: Ben Zhao
+# Hangman In Python
 Fall 2021 
 
-Hangman In Python
-
-Our code involves three files in total. Our first file is hangman.py which contains the main logic behind our code.
-This is were all of our functions and class is. The second file runs the game, hence why it's called RunGame.py.
-The final file is scrabble_dictionary.txt, from which we chose a random word for our hangman game. We also need the graphics.py documentation
+For my final project in CS111(Carleton College) I created a Python OOP Hangman game using the John Zelle's graphics library. 
+The first file is hangman.py which contains the main algorithim behind our code.
+The second file runs the game, hence why it's called RunGame.py.
+The final file is scrabble_dictionary.txt, from which we chose a random word for our hangman game The graphics.py documentation
 in order to run the graphics portion of the game. 
 
 Rules and Regulations of the Game:
