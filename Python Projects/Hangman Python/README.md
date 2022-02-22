@@ -1,5 +1,7 @@
+Author: Ben Zhao
+Fall 2021 
+
 Hangman In Python
-Created by Ben Zhao && Daanyal Raja
 
 Our code involves three files in total. Our first file is hangman.py which contains the main logic behind our code.
 This is were all of our functions and class is. The second file runs the game, hence why it's called RunGame.py.
