@@ -1,4 +1,4 @@
-Created by Ben Zhao
+# Created by Ben Zhao PostScript Implementation
 29 January 2022
 
 The program implements a small portion of a stack-based language called PostScript. 
