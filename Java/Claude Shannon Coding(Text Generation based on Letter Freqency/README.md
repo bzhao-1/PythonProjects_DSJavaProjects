@@ -1,4 +1,5 @@
-Created by Ben Zhao
+# Claude Shannon Algorithim Author Emulation Text Generator 
+# Created by Ben Zhao
 22 Feb 2022 
 
 This program reads text documents and analyzes letter frequency of k-length inside TextGenerator.Java. Changing the filename inside the main method will allow
