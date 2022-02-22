@@ -1,5 +1,11 @@
 Welcome to the Java Repository!
-My name is Ben Zhao. Carleton College Class of 2025: Computer Science Major, Mathematics Minor
+
+Author: Ben Zhao
+Carleton College Class of 2025
+
+Computer Science Major
+Mathematics Minor
+
 Check out all of my Java Projects!
 Feel Free to contact me at
 zhaob@carleton.edu
