@@ -1,10 +1,10 @@
-Created by Ben Zhao && Chris Elliott 
+# Author: Ben Zhao 
 16 January 20222 
 
 The program encapsulated in the file Coinstrip.java implements the interface TwoPlayerGame.Java. 
 
 This program runs the Silver Dollar Game! 
-This game involves a strip being created, divided with individual spots.
+This two player game involves a strip being created, divided with individual spots.
 The silver dollar coins are randomly placed along with strip, and the goal is to move all n coins to the leftmost n spots of the strip. 
 Coins can move only to the left, no coin may pass another, and no spot may hold more than one coin. 
 The last person to move is the winner. 
