@@ -1,6 +1,5 @@
-Welcome to the Java Repository!
-
-Author: Ben Zhao
+# Author: Ben Zhao
+# Java Programs 
 Carleton College Class of 2025
 
 Computer Science Major
