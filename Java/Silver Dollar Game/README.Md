@@ -1,4 +1,4 @@
-Author: Ben Zhao 
+# Author: Ben Zhao 
 16 January 2022
 
 The program encapsulated in the file Coinstrip.java implements the interface TwoPlayerGame.Java. 
