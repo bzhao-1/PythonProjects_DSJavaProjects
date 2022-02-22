@@ -1,3 +1,4 @@
+# Silver Dollar Game 
 # Author: Ben Zhao 
 16 January 2022
 
