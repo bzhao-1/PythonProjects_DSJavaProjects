@@ -1,4 +1,4 @@
-#Ben Zhao and Daanyal Raja CS 111 Final
+#Ben Zhao CS 111 Final
 #An Interactive Hangman Game: This Code allows the user to Play Hangman
 ##Graphics.Py, Game.py, and The Srabble Dictionary Files are required to run this code! See the ReadMe for detailed description
 ##Enjoy!!
