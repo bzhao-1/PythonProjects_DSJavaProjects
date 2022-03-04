@@ -2,6 +2,8 @@
 // A class for managing postscript tokens.
 // (c) 2001,1996, 2001 duane a. bailey
 // (c) 2021 aaron bauer
+// (c) 2022 Ben Zhao 
+
 import java.util.Iterator;
 import java.util.List;
 
