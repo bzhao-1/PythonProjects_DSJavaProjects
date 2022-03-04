@@ -1,8 +1,6 @@
 /**
  * Name: Ben Zhao 
  * Email: zhaob@carleton.edu
- * Partner's Name: Chris Elliott 
- * Partner's Email: elliottc2@carleton.edu
  * Description: This program implements PostScript which is stack based and has command with 
  * each command operation that is executed pops its operands from the stack and pushes on a result. 
  */
