@@ -1,6 +1,6 @@
 /*
- * Name: Ben Zhao && Chris Elliott
- * Email: zhaob@carleton.edu, elliottc2@carleton.edu
+ * Name: Ben Zhao 
+ * Email: zhaob@carleton.edu
  * Description: This program analyzes the letter frequencies(of given k-length) in text documents
  * and then generates new text documents based on those frequencies. Our program implements the 
  * algorithm developed by Claude Shannon in 1948. 
