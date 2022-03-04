@@ -1,6 +1,6 @@
 /**
- * Name: Ben Zhao, Chris Elliott
- * Email: zhaob@carleton.edu , elliottc2@carleton.edu
+ * Name: Ben Zhao
+ * Email: zhaob@carleton.edu 
  * Description: Implementation of a BST for 2-dimensional data. We are implementing a K-d tree which uses 2D points as keys(k=2)
  * Our programs supports efficient range search (find all of the points contained in a query rectangle) and nearest-neighbor search (find a closest point to a query point).
  * In addition to typical BST methods like put, get, contains, etc.
