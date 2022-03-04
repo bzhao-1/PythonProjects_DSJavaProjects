@@ -1,6 +1,7 @@
 // A simple symbol table for a postscript interpreter.
 // (c) 2001,1996, 2001 duane a. bailey
 // (c) 2021 aaron bauer
+// (c) 2022 Ben Zhao
 
 import java.util.HashMap;
 import java.util.Map;
@@ -46,15 +47,15 @@ public class SymbolTable {
     /**
      * Remove a string and the associated token from the table
      * @param symbol String to remove from the table
-     * @return Token associated with symbol (or null if symbol is not present in the
-     *         table)
+     * @return Token associated with symbol
+     *        
      */
     public Token remove(String symbol) {
         return table.remove(symbol);
     }
 
     /**
-     * @return returns printable version of symbol table. Use with ptable.
+     * @return returns printable version of symbol table.
      */
     public String toString() {
         return table.toString();
