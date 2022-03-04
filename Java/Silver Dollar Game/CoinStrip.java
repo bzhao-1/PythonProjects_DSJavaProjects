@@ -1,6 +1,6 @@
 /*
- * Name: Ben Zhao & Chris Elliott 
- * Email: zhaob@carleton.edu, elliottc2@carleton.edu
+ * Name: Ben Zhao
+ * Email: zhaob@carleton.edu
  * Description: This program runs the Silver Dollar Game! This game involves a strip being created, divided with individual spots.
  The silver dollar coins are randomly placed along with strip, and the goal is to move all n coins to the leftmost n spots of the strip. Coins can move only to the left, 
  no coin may pass another, and no spot may hold more than one coin. 
