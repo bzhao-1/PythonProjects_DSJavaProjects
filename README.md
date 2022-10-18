@@ -1,3 +1,3 @@
 # Coding-Projects-
-Various Projects using different languages created for CS Courses or in my free time 
+Various Projects using different languages created for CS Courses
 Example Languages Include: Python, Java, C++, CSS, and more!
