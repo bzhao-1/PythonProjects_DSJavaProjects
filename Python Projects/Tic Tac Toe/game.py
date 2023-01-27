@@ -1,6 +1,8 @@
-# Ben Zhao && Ayden Vinyard
+# Ben Zhao, CS 111 Fall 2021 
 #The purpose of this program is to play a game of Tic Tac Toe in either Text or Graphical Mode where user input can be entered or clicked on in Graphics and the AI will play
 #O in a random box against you.
+#This program does a good job of implementing most of its instance variables in all of the methods, thus it is generally cohesive. However, it is long and attempts to do way too many things. 
+
 
 from random import randint
 from graphics import *
