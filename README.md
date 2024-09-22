@@ -1,3 +1,3 @@
 # Coding-Projects-
-Various Projects using different languages created for CS Courses
+Projects for Data Structures and Intro to CS 
 
