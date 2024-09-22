@@ -24,7 +24,7 @@ class HangMan:
         #Set to true, so a new game board will not be drawn each time a letter or word is guessed
         self.boardDrawn = False
         #Dictionary of random Words to Choose from
-        file = open("/Users/benzhao/Desktop/CS111_Final/scrabble_dictionary.txt", "r")
+        file = open("scrabble_dictionary.txt", "r")
         contents = file.read()
         self.words = contents.split('\n')
         #Get Random Word
